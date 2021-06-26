@@ -6,6 +6,7 @@ Runs through the command line, after compiling the given cpp files, simmply run 
 Note: Certain logical operations(>, <=, >=, &&, ||) do not exist
 # Sample Input-Output
 Input:
+```
 PROGRAM circle
 	REAL : r, a, p, b  
 	CHAR : str1, str2
@@ -17,13 +18,17 @@ PROGRAM circle
 	END IF
 	
 END PROGRAM circle
+```
 
 Output:
+```
 r= 5 a= 78.5 p= 492.98
 
 Successful Execution
+```
 
 Input:
+```
 PROGRAM arith
 	REAL : r, a, p, b  
 	CHAR : str1, str2
@@ -40,8 +45,10 @@ PROGRAM arith
 	end if
 	
 END PROGRAM arith
-
+```
 Output:
+```
 Success
 
 Successful Execution
+```
