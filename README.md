@@ -1,9 +1,9 @@
 # FORTRAN-Like
-Lexer, parser, and interpreter for a simple FORTRAN-like programming language developed for a course project
-Implements a LR recursive descent parser
-Has four types INTEGER, REAL(float), CHAR(string) and nine keywords (PROGRAM, PRINT, READ, INTEGER, END, IF, THEN, REAL, CHAR)
-Runs through the command line, after compiling the given cpp files, simmply run the executable with your code as a text file input
-Note: Certain logical operations(>, <=, >=, &&, ||) do not exist
+- Lexer, parser, and interpreter for a simple FORTRAN-like programming language developed for a course project
+- Implements a LR recursive descent parser
+- Has four types INTEGER, REAL(float), CHAR(string) and nine keywords (PROGRAM, PRINT, READ, INTEGER, END, IF, THEN, REAL, CHAR)
+- Runs through the command line, after compiling the given cpp files, simmply run the executable with your code as a text file input
+- Note: Certain logical operations(>, <=, >=, &&, ||) do not exist
 # Sample Input-Output
 Input:
 ```
