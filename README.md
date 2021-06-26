@@ -3,7 +3,7 @@
 - Implements a LR recursive descent parser
 - Has four types INTEGER, REAL(float), CHAR(string) and nine keywords (PROGRAM, PRINT, READ, INTEGER, END, IF, THEN, REAL, CHAR)
 - Runs through the command line, after compiling the given cpp files, simmply run the executable with your code as a text file input
-- Note: Certain logical operations(>, <=, >=, &&, ||) do not exist
+- Note: Certain logical operations(>, <=, >=, &&, ||) do not exist and all assignments require a literal 
 # Sample Input-Output
 Input:
 ```
